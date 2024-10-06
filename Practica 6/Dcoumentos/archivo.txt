@@ -1,0 +1,2 @@
+Escriba lo que quiera en su archivo.
+Esta es una prueba de appendText.
